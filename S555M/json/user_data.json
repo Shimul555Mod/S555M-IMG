@@ -1,0 +1,35 @@
+{
+    "ShimulX.D": {
+        "password": "ShimulX.D",
+        "access_token": "ShimulX.D",
+        "access_expired": "Unlimited-ShimulXD"
+    },
+    
+    "S555M": {
+        "password": "S555M",
+        "access_token": "S555M",
+        "access_expired": "Unlimited-ShimulXD"
+    },
+    
+    "test1": {
+        "password": "test1",
+        "access_token": "test1",
+        "access_expired": "2024-12-12T23:59:59+0000"
+    },
+    
+    "username1": {
+        "password": "password123",
+        "access_token": "token_ABC123",
+        "access_expired": "2024-12-31T23:59:59+0000"
+    },
+    "username2": {
+        "password": "securePass456",
+        "access_token": "token_DEF456",
+        "access_expired": "Unlimited-ShimulXD"
+    },
+    "username3": {
+        "password": "pass789",
+        "access_token": "token_GHI789",
+        "access_expired": "2023-11-10T23:59:59+0000"
+    }
+}
