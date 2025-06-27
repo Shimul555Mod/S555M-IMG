@@ -1,1 +1,47 @@
-JSON
+[
+  {
+    "id": 1,
+    "username": "panda_lover",
+    "password": "panda_lover",
+    "name": "Panda Fan",
+    "email": "panda.lover@example.com",
+    "join_date": "2022-01-15",
+    "avatar": "https://raw.githubusercontent.com/Shimul555Mod/S555M-IMG/main/S555M/avatars/panda1.png"
+  },
+  {
+    "id": 2,
+    "username": "wildlife_pro",
+    "password": "nature2023",
+    "name": "Wildlife Expert",
+    "email": "wildlife.pro@example.com",
+    "join_date": "2021-11-22",
+    "avatar": "https://raw.githubusercontent.com/Shimul555Mod/S555M-IMG/main/S555M/avatars/panda2.png"
+  },
+  {
+    "id": 3,
+    "username": "animal_rescuer",
+    "password": "savepandas",
+    "name": "Animal Rescuer",
+    "email": "rescuer@example.com",
+    "join_date": "2023-03-08",
+    "avatar": "https://raw.githubusercontent.com/Shimul555Mod/S555M-IMG/main/S555M/avatars/panda3.png"
+  },
+  {
+    "id": 4,
+    "username": "zookeeper",
+    "password": "care4animals",
+    "name": "Zoo Keeper",
+    "email": "zoo.keeper@example.com",
+    "join_date": "2020-05-17",
+    "avatar": "https://raw.githubusercontent.com/Shimul555Mod/S555M-IMG/main/S555M/avatars/panda4.png"
+  },
+  {
+    "id": 5,
+    "username": "nature_photographer",
+    "password": "clickwild",
+    "name": "Nature Photographer",
+    "email": "photo.nature@example.com",
+    "join_date": "2022-09-30",
+    "avatar": "https://raw.githubusercontent.com/Shimul555Mod/S555M-IMG/main/S555M/avatars/panda5.png"
+  }
+]
